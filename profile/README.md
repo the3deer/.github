@@ -2,7 +2,7 @@
 
 ## Website
 
-- [The3Deer.org](https://the3deer.org/): Organization Site
+- [The3Deer.org](https://the3deer.org/): Website
 
 ## Repositories
 
@@ -11,4 +11,4 @@
 - android-3D-isogame (wip): Play and train your neurons!
 
 
-![alt text](3ddeer.jpg)
+![alt text](deer-w-glasses.png)
